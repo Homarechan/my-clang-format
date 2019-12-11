@@ -72,7 +72,7 @@ SortUsingDeclarations: true
 SpaceAfterCStyleCast: false
 #SpaceAfterLogicalNot: false
 SpaceAfterTemplateKeyword: false
-SpaceBeforeAssignmentOperators: false
+SpaceBeforeAssignmentOperators: true
 SpaceBeforeCpp11BracedList: false
 SpaceBeforeCtorInitializerColon: false
 SpaceBeforeInheritanceColon: false
